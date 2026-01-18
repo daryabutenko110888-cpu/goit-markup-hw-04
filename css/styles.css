@@ -461,6 +461,7 @@ section {
 .footer-socials {
   display: flex;
   gap: 16px;
+  margin-top: 0;
 }
 .footer-socials .social-link {
   background-color: #4d5ae5;
